@@ -9866,6 +9866,15 @@
     githubId = 752510;
     name = "Martin Potier";
   };
+  jpteb = {
+    email = "jan.tebernum@pm.me";
+    github = "jpteb";
+    githubId = 13502853;
+    name = "Jan Philipp Tebernum";
+    keys = [{
+      fingerprint = "1233 9662 70C8 AE5B 501D  E98F 69B8 8029 5621 0764";
+    }];
+  };
   jpts = {
     email = "james+nixpkgs@cleverley-prance.uk";
     github = "jpts";

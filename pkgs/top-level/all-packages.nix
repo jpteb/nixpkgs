@@ -40880,4 +40880,6 @@ with pkgs;
   dillo = callPackage ../by-name/di/dillo/package.nix {
     fltk = fltk13;
   };
+
+  structurizr-cli = callPackage ../by-name/st/structurizr-cli { };
 }
